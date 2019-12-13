@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
-def display_rainbow(color)
-  puts "Initial: #{color[0]}, Name: #{color[1]}"
+def display_rainbow(colors)
+  puts "Initial: #{colors[0]}, Name: #{colors[1]}"
 end
 
 red = ["R","red"]
